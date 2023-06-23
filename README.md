@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sidrane6
+- 👋 Hi, I’m Siddhi
 - 👀 I’m interested in DATA and creating Creative Dashboards 
-- 🌱 I have recently completed my MBA
+- 🌱 I have recently completed my MBA 
 - 💞️ I’m looking to collaborate and look for new opportunities
 - 📫 You can reach me on siddhirane.r@gmail.com
 
